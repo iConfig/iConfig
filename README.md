@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iConfig
-- 👀 I’m interested in ... Programming, Networking, Cybersecurity 
+- 👀 I’m interested in ...  Programming, Networking, Cybersecurity, BlockChain 
 - 🌱 I’m currently learning ... so many things
 - 💞️ I’m looking to collaborate on ... anything i can fit in to
 - 📫 How to reach me ... @i_am_recaptcha on IG and Twitter
