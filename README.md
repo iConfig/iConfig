@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @iConfig
+- 👋 Hi, I’m @iConfig, A Backend Developer 
 - 👀 I’m interested in ...  Programming, Networking, Cybersecurity, BlockChain 
 - 🌱 I’m currently learning ... so many things
-- 💞️ I’m looking to collaborate on ... anything i can fit in to
-- 📫 How to reach me ... @i_am_recaptcha on IG and Twitter
+- 💞️ I’m looking to collaborate on ... anything i can fit into 
+- 📫 How to reach me ... @00_cisc on IG
 
 <!---
 iConfig/iConfig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
